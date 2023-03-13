@@ -21,3 +21,41 @@ Khanoo CMS is a web-based platform designed for the real estate industry, offeri
 - Counter create, edit and delete option
 - Home page sections manage with an on/off option
 - Slider photo management.
+
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/index.png)
+
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/frontend-all-properties.png)
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/frontend-property-details.png)
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/frontend-blog.png)
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/contact.png)
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/frontend-contact.png)
+
+## User Dashboard:
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/user-dashboard.png)
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/user-dashboard-all-properties.png)
+
+## Admin Dashboard:
+
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/admin-dashboard.png)
+
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/admin-dashboard-all-properties.png)
+
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/admin-dashboard-edit-order.png)
+
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/admin-dashboard-edit-page.png)
+
+
+![khanoo-CMS](https://github.com/rebarhama/khanoo-CMS/blob/main/admin-dashboard-setting.png)
+
